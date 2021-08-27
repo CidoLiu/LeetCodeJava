@@ -1,0 +1,6 @@
+
+U
+java:S1854B":Remove this useless assignment to local variable "temple".(‚­Îùÿÿÿÿ
+F
+java:S1481B"+Remove this unused "temple" local variable.(‚­Îùÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
